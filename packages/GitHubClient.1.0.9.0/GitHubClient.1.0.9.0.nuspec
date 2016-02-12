@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GitHubClient</id>
+    <version>1.0.9.0</version>
+    <title>GitHub Client</title>
+    <authors>Dillon Buchanan</authors>
+    <owners>Dillon Buchanan</owners>
+    <projectUrl>https://github.com/thedillonb/GitHubSharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET client for GitHub v3 APIs</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <tags>github</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="7.0.1" />
+    </dependencies>
+  </metadata>
+</package>
